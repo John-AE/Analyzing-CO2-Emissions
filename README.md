@@ -16,7 +16,5 @@ The Project involved downloading a CO2 Emissions dataset from Kaggle, loading th
 
 ### Data Science Analysis Walk-Through
 
-<p align="center">
-Loading the Dataset: <br/>
-![Loading the DataSet](pic_01.JPG)
+[Loading the DataSet](pic_01.JPG)
 
