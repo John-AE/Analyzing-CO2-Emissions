@@ -16,5 +16,13 @@ The Project involved downloading a CO2 Emissions dataset from Kaggle, loading th
 
 ### Data Science Analysis Walk-Through
 
-[Loading the DataSet](pic_01.JPG)
+![Loading the DataSet](pic_01.JPG)
 
+<p align="center">
+Launch the utility: <br/>
+<img src="pic_01.JPG" height="80%" width="80%" "/>
+<br />
+<br />
+Select the disk:  <br/>
+<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
