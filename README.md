@@ -37,5 +37,5 @@ The Project involved downloading a CO2 Emissions dataset from Kaggle, loading th
 #### Melting the DataFrame To Aid Visualization
 ![Melting the DataFrame](pic_07.JPG)
 
-#### Creating a Line Plot showing the CO@ Emissions Trend over the Years
+#### Creating a Line Plot showing the CO2 Emissions Trend over the Years
 ![Line Plot](pic_08.JPG)
